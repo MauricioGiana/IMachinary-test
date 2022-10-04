@@ -1,0 +1,13 @@
+# Node artifact files
+node_modules/
+dist/
+package-lock.json
+reports/
+
+# Log files
+logs
+*.log
+
+#environment
+.env
+
